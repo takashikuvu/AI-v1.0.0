@@ -1,0 +1,4 @@
+__pycache__/
+kiseki/data/
+kiseki/*.pt
+survey/*.log
