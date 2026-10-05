@@ -1,0 +1,47 @@
+papers harvested (unique arXiv ids, title+abstract): 3135
+repos harvested (unique full_name, metadata): 2275
+repo star buckets: {"2k-10k": 51, "500-2k": 128, "100-500": 322, "20-100": 480, "5-20": 582, "1-4": 701, ">=10k": 11}
+paper years: {"1996": 1, "2001": 1, "2005": 1, "2008": 1, "2009": 2, "2010": 2, "2011": 2, "2012": 3, "2013": 6, "2014": 5, "2015": 6, "2016": 10, "2017": 8, "2018": 5, "2019": 10, "2020": 22, "2021": 17, "2022": 38, "2023": 108, "2024": 453, "2025": 1105, "2026": 1329}
+keyword -> #papers mentioning (title/abstract):
+  gated delta / delta rule: 53
+  mamba/SSM: 177
+  linear attention: 222
+  hybrid attn+linear: 195
+  MoE: 180
+  shared/fine-grained experts: 5
+  aux-loss-free balancing: 5
+  MLA / KV compression: 278
+  sparse attention: 81
+  multi-token prediction: 129
+  looped/recurrent depth: 24
+  test-time training/memory: 24
+  muon: 111
+  RLVR/GRPO: 86
+  distillation: 237
+  synthetic data: 98
+  FP8/low-precision: 59
+  speculative decoding: 253
+  long CoT / test-time compute: 342
+  diffusion LM: 213
+keyword -> #repos mentioning (name/desc/topics):
+  gated delta / delta rule: 15
+  mamba/SSM: 145
+  linear attention: 30
+  hybrid attn+linear: 41
+  MoE: 143
+  shared/fine-grained experts: 0
+  aux-loss-free balancing: 0
+  MLA / KV compression: 122
+  sparse attention: 81
+  multi-token prediction: 30
+  looped/recurrent depth: 42
+  test-time training/memory: 58
+  muon: 62
+  RLVR/GRPO: 33
+  distillation: 145
+  synthetic data: 10
+  FP8/low-precision: 46
+  speculative decoding: 151
+  long CoT / test-time compute: 14
+  diffusion LM: 70
+top repos: hiyouga/LlamaFactory(75319), binary-husky/gpt_academic(71409), karpathy/nanoGPT(63567), microsoft/BitNet(40368), sgl-project/sglang(36797), ymcui/Chinese-LLaMA-Alpaca(18936), memvid/memvid(16573), BlinkDL/RWKV-LM(14738), deepseek-ai/FlashMLA(13037), artidoro/qlora(11031), karpathy/minbpe(10752), BlinkDL/ChatRWKV(9494), FareedKhan-dev/kimi-k3-in-c(8881), bitsandbytes-foundation/bitsandbytes(8512), open-compass/opencompass(7493), arcee-ai/mergekit(7388), deepseek-ai/DeepSpec(7188), ymcui/Chinese-LLaMA-Alpaca-2(7112), microsoft/LLMLingua(6727), josStorer/RWKV-Runner(6480), yl4579/StyleTTS2(6361), wenda-LLM/wenda(6148), z-lab/dflash(6137), cactus-compute/cactus(6100), Lightning-AI/lit-llama(6081)
